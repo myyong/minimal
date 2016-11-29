@@ -276,20 +276,31 @@ footer {
 	padding-bottom:10px;
 }
 
+.abstractTitle-box {
+	display: inline-block;
+    zoom: 1;
+    background: #ccc;
+    color: #fff;
+    padding: 15px 10px 0px 10px;
+    margin: 15px 0px 15px 0px;
+    width: 100%;
+}
+
 .format-box {
 	display: inline-block;
     zoom: 1;
     background: #ccc;
     color: #fff;
-    font-size: 10px;
     line-height: 12px;
     padding: 3px 3px;
+    font-size: 10px;
 }
 
 .logo {
 	border:0px;
 	float: left;
 	padding: 5px 15px 5px 5px;
+	max-width:150px;
 }
 
 .schedulebreak {
